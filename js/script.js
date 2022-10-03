@@ -38,9 +38,9 @@ function logAnswer(answer) {
     }
 }
 logAnswer(true);
-logAnswer("Hello world");
+
  
-//Answer true, "Please pass a boolean value in".
+//Answer true, If I change the "Please pass a boolean value in" is the result.
 
 
 //Question 3. 
